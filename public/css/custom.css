@@ -1,0 +1,9 @@
+.custom-image {
+    height: 400px;
+    object-fit: cover;
+}
+
+.item-detail-container {
+    margin: 1rem;
+    padding: 1rem;
+}
